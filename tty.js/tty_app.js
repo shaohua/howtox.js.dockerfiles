@@ -4,3 +4,5 @@ var app = tty.createServer({
   shell: 'bash',
   port: 8000
 });
+
+app.listen();
